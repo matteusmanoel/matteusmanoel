@@ -1,8 +1,9 @@
 # Hello World ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif  width="30"  height="25"> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=8000&color=C65BF7&background=FFFFFF00&width=435&lines=Welcome%2C+this+is+Mateus+Manoel's+Github!)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=3000&color=C65BF7&background=FFFFFF00&width=435&lines=Welcome%2C+this+is+Mateus+Manoel's+Github!)](https://git.io/typing-svg)
 
 <p align="left"> 
 Hi there, I'm Mateus Manoel! 👋
