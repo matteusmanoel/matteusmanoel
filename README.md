@@ -1,9 +1,11 @@
-# Hello World ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
+# Hello World ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif  width="30"  height="25"> 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=3000&color=C65BF7&background=FFFFFF00&width=435&lines=Welcome%2C+this+is+Mateus+Manoel's+Github!)](https://git.io/typing-svg)
+
 <p align="left"> 
-Hi there, I'm Mateus! 👋
+Hi there, I'm Mateus Manoel! 👋
   
 Started my journey in software development as a teenager, gaining experience in programming logic, report creation, and web development (HTML, CSS, JavaScript) during an internship at a local company.
 
@@ -24,22 +26,26 @@ During my academic journey, i've implemented a data persistence system in C and 
 
 </p>
  
-![springboot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="springboot">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs">
+</p>
 
 
 <p align="left">
-  
+
 
 ## Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px">
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/mateus-manoel-ferreira-9150b8211/) | | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/matteusmanoel/)| |[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/matteusmanoel) |  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mateusmanoelfr@gmail.com) 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="60" align="center">](https://in.linkedin.com/in/mateus-manoel-ferreira-9150b8211/) | | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="60" align="center">](https://www.instagram.com/matteusmanoel/)| |[<img src="https://skillicons.dev/icons?i=github" width="60" align="center">](https://github.com/matteusmanoel) |  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="60" align="center">](mailto:mateusmanoelfr@gmail.com) | | [<img src="https://github.com/user-attachments/assets/525be967-8a3b-4aab-8b3e-acc4400b5636" alt="WhatsApp logo" width = "" height="60" align="center">](https://wa.me/message/P6XRRRNQYALAL1 ) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </p>
+
+
 
 ## 🚀 Technical Skills
 
@@ -59,15 +65,23 @@ During my academic journey, i've implemented a data persistence system in C and 
 
 ## 🏆 Featured Projects
 
-- [BeCase](https://github.com/matteusmanoel/becase): A fullstack project built with Fastify, Prisma & Node.js on the backend as well as Next.js, Typescript, ShadCN, React Query & React Hooks on the frontend. All of the application was containerized with docker.
-- [MiniMarketApp](https://github.com/matteusmanoel/MiniMarketApp): Sales & Stock management with nice interface for micromarkets. First project developed early on 1st semester of college.
-- [Berenice CVE](https://github.com/matteusmanoel/berenice-git): Sales & Stock basic management as a first project developed early on 1st semester of college.
+- [BeCase](https://github.com/matteusmanoel/becase): A fullstack project built with Fastify, Prisma & Node.js on the backend as well as Next.js, Typescript, ShadCN, React Query & React Hooks on the frontend. All of the application was containerized with docker. It was developed for a internship application.
+  
+- [MiniMarketApp](https://github.com/matteusmanoel/MiniMarketApp): Sales & Stock software management for micromarkets with nice interface and lots of relational database concepts developed. Still in progress as I own micromarkets and feel the software needs.
+  
+- [Berenice CVE](https://github.com/matteusmanoel/berenice-git): Basic Sales & Stock management as a first project developed early on 1st semester of college. Gained experience with C language, as I see it crucial for understanding how computers work. 
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=matteusmanoel&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusmanoel&hide=html&layout=compact&theme=dracula" alt="iuricode" width="400" >
+  
+</p>
 
 
+<p align="center">
+🙋‍♂️Thanks for visiting my GitHub!
+</p>
 
-🙋‍♂️ Thanks for visiting my GitHub!
-
+<p align="center">
 ✨ Hope you enjoy it...
+</p>
