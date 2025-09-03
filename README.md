@@ -52,7 +52,7 @@ During my academic journey, i've implemented a data persistence system in C and 
 
 - Programming Languages: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,python)](https://skillicons.dev)
 - Frameworks and Libraries: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind)](https://skillicons.dev)
@@ -66,7 +66,7 @@ During my academic journey, i've implemented a data persistence system in C and 
 
 ## 🏆 Featured Projects
 
-- [BeCase](https://github.com/matteusmanoel/becase): A fullstack project built with Fastify, Prisma & Node.js on the backend as well as Next.js, Typescript, ShadCN, React Query & React Hooks on the frontend. All of the application was containerized with docker. It was developed for a internship application.
+- [Zero Mortes Site](https://github.com/matteusmanoel/zeromortes-landing): A modern and responsive landing page developed for donation collection and traffic safety awareness, focused on the "Zero Traffic Deaths" movement in Foz do Iguaçu.
   
 - [MiniMarketApp](https://github.com/matteusmanoel/MiniMarketApp): Sales & Stock software management for micromarkets with nice interface and lots of relational database concepts developed. Still in progress as I own micromarkets and feel the software needs.
   
